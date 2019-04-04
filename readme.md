@@ -11,7 +11,5 @@ composer install
 сгенерировать ключ <br>
 php artisan key:generate
 
-
-
-<p>выполнить миграции</p> <br>
+выполнить миграции <br>
 php artisan migrate
